@@ -2,7 +2,7 @@
 
 Proyecto Introducción a la Ingeniería II
 
-* **Miembros**
+###### Miembros:
 * Wilson Araya Oro
 * Carlos Cortes González
 * Carlos Cubillos Valenzuela
